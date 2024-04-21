@@ -344,9 +344,9 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
 </a>
 
-### 🌟 AGRADECIMIENTOS
+### 🗣️ AGRADECIMIENTOS
 [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
 
-### 🌟 CREADORA 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-> Copyright (c) 2024 **[GataNina-Li](https://github.com/GataNina-Li/GataBot-MD/blob/master/LICENSE)**.
+### 🍷 CREADOR
+[![Kentaro](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+> 
